@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <gif src="https://github.com/user-attachments/assets/c87837d3-0a6f-45e3-a59e-336887aa8842" alt="Screenshot 2024-08-03_5" width="600"/>
+  <img src="https://github.com/user-attachments/assets/c87837d3-0a6f-45e3-a59e-336887aa8842" alt="Screenshot 2024-08-03_5" width="600"/>
   <br>
-  <em>Информационное окно</em>
+  <em>Обычная игра "Жизнь"</em>
 </p>
